@@ -1,0 +1,19 @@
+{
+  "name": "bulkemail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "inquirer": "^14.0.2",
+    "nodemailer": "^9.0.1",
+    "p-limit": "^7.3.0",
+    "sqlite3": "^6.0.1"
+  }
+}
